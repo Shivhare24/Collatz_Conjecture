@@ -1,3 +1,4 @@
+//i have updated the code
 package com.collatz.org;
 
 import java.util.Scanner;
